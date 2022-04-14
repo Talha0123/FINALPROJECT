@@ -65,9 +65,5 @@
         android:textStyle="bold"
         android:radius="500dp"/>
 
-
-
-
-
 </LinearLayout>
 
