@@ -36,7 +36,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="10dp"
         android:textAllCaps="true"
-        android:text="safety rules are your best tools"
+        android:text="@string/safety_rules_are_your_best_tools"
         android:textColorHighlight="@color/black"
         android:textColor="@color/black"
         android:textStyle="bold"
