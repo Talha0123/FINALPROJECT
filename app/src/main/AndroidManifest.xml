@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FINALPROJECT">
         <activity
+            android:name=".signuptextview"
+            android:exported="false" />
+        <activity
+            android:name=".loginbuttonview"
+            android:exported="false" />
+        <activity
+            android:name=".loginSignupscreen"
+            android:exported="false" />
+        <activity
+            android:name=".splash"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
