@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".loginSignupscreen">
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    tools:context=".Activity1">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <ImageView
+        android:layout_width="313dp"
+        android:layout_height="308dp"
+        android:layout_margin="@dimen/cardview_default_radius"
+        android:cropToPadding="true"
+        android:layout_gravity="center"
+        android:src="@drawable/userlogin"
+        android:contentDescription="@string/todo" />
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:paddingStart="20dp"
+        android:text="@string/username"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:autofillHints=""
+        android:inputType="text"
+        tools:ignore="LabelFor,RtlSymmetry,TextFields" />
+</LinearLayout>
