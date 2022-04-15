@@ -4,4 +4,8 @@
     <string name="safety_rules_are_your_best_tools">safety rules are your best tools</string>
     <string name="create_a_new_account">Creat New Account</string>
     <string name="login">LOGIN</string>
+    <string name="todo">todo</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password</string>
 </resources>
