@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/splash1"
-    android:orientation="vertical"
+    android:orientation="horizontal"
     android:layout_gravity="center_vertical"
     tools:context=".splash">
 
