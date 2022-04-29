@@ -10,7 +10,7 @@
 
     <ImageView
         android:layout_width="314dp"
-        android:layout_height="330dp"
+        android:layout_height="310dp"
         android:layout_margin="@dimen/cardview_default_radius"
         android:cropToPadding="true"
         android:layout_gravity="center"
