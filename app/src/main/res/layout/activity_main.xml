@@ -34,7 +34,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginTop="14dp"
+        android:layout_marginTop="13dp"
         android:textAllCaps="true"
         android:text="@string/safety_rules_are_your_best_tools"
         android:textColorHighlight="@color/black"
