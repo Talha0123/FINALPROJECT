@@ -9,13 +9,13 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:layout_marginTop="42dp"
-        android:layout_width="350dp"
+        android:layout_width="452dp"
         android:layout_height="300dp"
         android:layout_gravity="center"
+        android:layout_marginTop="42dp"
         android:contentDescription="@string/app_name"
         android:cropToPadding="true"
-        android:src="@drawable/LOGO1" />
+        android:src="@drawable/logo" />
 
     <TextView
         android:layout_width="wrap_content"
