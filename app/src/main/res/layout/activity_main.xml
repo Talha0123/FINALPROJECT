@@ -3,16 +3,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
-    android:background="@color/white"
+    android:background="@drawable/backcolour"
     android:orientation="vertical"
     android:layout_gravity="center_horizontal"
     tools:context=".MainActivity">
+    3
 
     <ImageView
-        android:layout_width="452dp"
+        android:layout_width="400dp"
         android:layout_height="300dp"
         android:layout_gravity="center"
-        android:layout_marginTop="42dp"
+        android:layout_marginTop="20dp"
         android:contentDescription="@string/app_name"
         android:cropToPadding="true"
         android:src="@drawable/logo" />
